@@ -51,7 +51,7 @@ Get STRING_NAME from here:  [![GenerateString](https://img.shields.io/badge/repl
 - `/deezer <song name>` - download songs you want quickly via deezer
 - `/saavn <song name>` - download songs you want quickly via saavn
 - `/video <song name>` - download videos you want quickly
-<details>
+</details>
 --------------
 # Admins only.
 <details>
@@ -64,7 +64,7 @@ Get STRING_NAME from here:  [![GenerateString](https://img.shields.io/badge/repl
 - `/userbotjoin` - invite assistant to your chat
 - `/userbotleave` - remove assistant from your chat
 - `/admincache` - Refresh admin list
-<details>
+</details>
 --------------
 # Commands for Channel Music Play 🛠
 <details>
@@ -84,7 +84,7 @@ For linked group admins only:
 - `/cend` - stop music play
 - `/userbotjoinchannel` - invite assistant to your chat
 * channel is also can be used instead of c
-<details>
+</details>
 --------------
 If you donlt like to play in linked channel:
  1. Get your channel ID.
@@ -99,7 +99,7 @@ If you donlt like to play in linked channel:
 - `/userbotleaveall` - remove assistant from all chats
 - `/gcast <reply to message>` - globally brodcast replied message to all chats
 - `/pmpermit [on/off]` - enable/disable pmpermit message
-<details>
+</details>
 --------------
 # Pmpermit
 - `.a` - approove someone to pm you
