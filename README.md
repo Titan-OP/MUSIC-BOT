@@ -6,7 +6,7 @@ KANG KIYA TO GAND MAAR DUNGA
 
 # How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TITAN-OP/MUSIC-BOT"> <img src="https://www.herokucdn.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/TITAN-OP/MUSIC-BOT"> <img src="https://www.herokucdn.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
 
 - Support Channel :- [Join](http://t.me/Join7546)
