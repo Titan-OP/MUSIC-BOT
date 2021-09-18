@@ -52,8 +52,10 @@ Get STRING_NAME from here:  [![GenerateString](https://img.shields.io/badge/repl
 - `/saavn <song name>` - download songs you want quickly via saavn
 - `/video <song name>` - download videos you want quickly
 </details>
+
 --------------
-# Admins only.
+
+- Admins only.
 <details>
 <summary>☞ Click Here ☜</summary>
 - `/player` - open music player settings panel
@@ -65,8 +67,10 @@ Get STRING_NAME from here:  [![GenerateString](https://img.shields.io/badge/repl
 - `/userbotleave` - remove assistant from your chat
 - `/admincache` - Refresh admin list
 </details>
+
 --------------
-# Commands for Channel Music Play 🛠
+
+- Commands for Channel Music Play 🛠
 <details>
 <summary>☞ Click Here ☜</summary>
 For linked group admins only:
@@ -85,27 +89,35 @@ For linked group admins only:
 - `/userbotjoinchannel` - invite assistant to your chat
 * channel is also can be used instead of c
 </details>
+
 --------------
+
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
  3. Add @VCPlayBot as Channel admin with full perms
  4. add helper to channel
  5. Simply send commands in your group.
+
 --------------
-# Commands for Sudo Users ⚔️
+
+- Commands for Sudo Users ⚔️
 <details>
 <summary>☞ Click Here ☜</summary>
 - `/userbotleaveall` - remove assistant from all chats
 - `/gcast <reply to message>` - globally brodcast replied message to all chats
 - `/pmpermit [on/off]` - enable/disable pmpermit message
 </details>
+
 --------------
+
 # Pmpermit
 - `.a` - approove someone to pm you
 - `.da` - disapproove someone to pm you
 + Sudo Users can execute any command in any groups
+
 --------------
+
 #### Special Credits
 - Owner Of Repository - [**тєcнησ✘ρяσ**](https://GitHub.com/Titan-OP)
 
