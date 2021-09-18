@@ -1,6 +1,6 @@
 # ANAND MUSIC
 
-         KANG KIYA TO GAND MAAR DUNGA
+   KANG KIYA TO GAND MAAR DUNGA
 
 -------------
 
